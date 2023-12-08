@@ -1,2 +1,3 @@
 # scraper
-python web scraper
+python web scraper  
+it scrapes wikipedia
